@@ -14,12 +14,12 @@
 
 ### 🧠 what i do
 
-I build LLM-powered systems end-to-end — from fine-tuning large models on custom datasets to deploying them as voice bots, WhatsApp assistants, and agentic pipelines. I care about making AI work in production, not just in notebooks.
+I build LLM-powered systems end-to-end — from fine-tuning large models on custom datasets to deploying them in voice bots, WhatsApp assistants, and agentic pipelines. I care about making AI work in production, not just in notebooks.
 
-Right now I'm at **Oriserve** as a Junior Data Scientist, working on:
+Right now I'm at **Oriserve** as a Data Scientist, working on:
 - 🎙️ Speech-to-speech streaming pipelines with multimodal LLMs
 - 🔧 Fine-tuning Mistral 24B on multi-GPU AWS H100s (saved ~$92K/yr in API costs)
-- 📦 Vector DB management & prompt optimization for enterprise chatbots
+- 📦 Vector DB management, LLM migration, evaluation, & system optimization for enterprise chatbots
 
 Previously at **Namasys Analytics**, I built AI Ops evaluation pipelines, agentic voicebots with AI avatars, and GPU-accelerated supply chain optimizers for Middle-Eastern clients.
 
